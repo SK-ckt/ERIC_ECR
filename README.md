@@ -1,4 +1,4 @@
-## IO expansion Project
+## ECR Connected Recycling Altium Project
 
 ### Starting
 To download this project to your computer:
